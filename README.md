@@ -48,11 +48,9 @@ wallet/
 
 ## 📥 Installation & Setup
 
-### 1. Clone the Repositorym/your-username/digital-wallet-api.git
-cd digital-wallet-api
-```
-
-
+### 1. Clone the Repository:  
+> m/ejdotp/digiWallet.git  
+  
 ```bash
 git clone https://github.co
 ### 2. Install Python dependencies
