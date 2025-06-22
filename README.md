@@ -49,10 +49,11 @@ wallet/
 ## 📥 Installation & Setup
 
 ### 1. Clone the Repository:  
-> m/ejdotp/digiWallet.git  
   
 ```bash
-git clone https://github.co
+git clone https://github.com/ejdotp/digiWallet
+```
+
 ### 2. Install Python dependencies
   
 ```bash
