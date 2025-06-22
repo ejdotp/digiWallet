@@ -55,7 +55,12 @@ git clone https://github.com/ejdotp/digiWallet
 ```
 
 ### 2. Install Python dependencies
-  
+
+```bash
+pip install -r requirements.txt
+```
+### OR
+
 ```bash
 pip install fastapi uvicorn sqlalchemy psycopg2-binary passlib[bcrypt] python-dotenv requests
 ```
